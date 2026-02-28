@@ -1,7 +1,7 @@
 # Hi, I'm Ujjwal Adhikari 👋
 
 🎓 DMIT Student at NAIT (Edmonton, Canada)  
-🚀 Co-founder & CEO of [Booklyze](https://booklyze.com) — AI-powered edtech startup  
+🚀 Co-founder [Booklyze](https://booklyze.com) — AI-powered edtech startup  
 💻 Building skills in HTML, CSS, JavaScript, Python & React  
 📈 Interested in AI, trading bots, and web development  
 
